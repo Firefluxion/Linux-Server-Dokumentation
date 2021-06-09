@@ -1,0 +1,11 @@
+Erik:
+	static ip address
+	Firewall
+
+Robin:
+	webserver mit informationsseite
+	samba server
+
+Shared:
+	lokale benutzer anlegen
+	ssh fernzugriff
